@@ -22,7 +22,3 @@ A simple and intuitive ToDo application built for iOS that helps users manage da
 - **Architecture:** MVVM / MVC
 - **Storage:** CoreData / UserDefaults
 - **IDE:** Xcode
-
----
-
-## 📂 Project Structure
